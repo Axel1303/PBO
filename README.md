@@ -1,2 +1,2 @@
 # PBO
-PBOBeleg Jimmy Orawetz und Axel Schröter
+PBO-Beleg Jimmy Orawetz und Axel Schröter
